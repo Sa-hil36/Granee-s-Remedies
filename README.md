@@ -1,6 +1,6 @@
 # Granee-s-Remedies
 # Introduction
-Overview of the Project
+# Overview of the Project
 A chatbot that suggests home remedies for common health issues.
 Provides Ayurvedic treatment options for lifestyle disorders and chronic conditions.
 Focus on reviving awareness of traditional health practices.
